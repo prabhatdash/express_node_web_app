@@ -8,5 +8,4 @@ Dependencies required to get started:
 4.	npm i nodemon
 5.	npm i mongoose
 6.	npm i body-parser
-7.	killall -9 node
-
+7.	killall -9 node (to kill node server in mac)
